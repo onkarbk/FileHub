@@ -1,5 +1,7 @@
 # Link to Notion Docs Page: https://www.notion.so/FileHub-b907091b8c8b4d7bb7f8f7525232580a
 
+# Link to Demo Video: https://youtu.be/lkm7k1zyecs
+
 # What is FileHub? 
 
 The present-day digital arena faces increasing risks of financial frauds, theft, etc. Such crimes call for reliable ways to safeguard people’s digital assets while transferring them. FileHub is a decentralized solution that would allow users to share only the Encrypted Hash of the file and the recipient can then decrypt it by using their unique key. The service employs IPFS(Inter-Planetary File System) to store the documents in a decentralized database. And the data can be retrieved only by the trusted recipient and the users themselves. The Encrypted Hash of the location of the document on the IPFS is stored on Ethereum using a smart contract. 
